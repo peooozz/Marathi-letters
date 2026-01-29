@@ -1,0 +1,256 @@
+{
+  "swar": [
+    {
+      "slug": "अ",
+      "letter": "अ",
+      "file": "/datasets/marathi/swar/अ.svg"
+    },
+    {
+      "slug": "आ",
+      "letter": "आ",
+      "file": "/datasets/marathi/swar/आ.svg"
+    },
+    {
+      "slug": "इ",
+      "letter": "इ",
+      "file": "/datasets/marathi/swar/इ.svg"
+    },
+    {
+      "slug": "ई",
+      "letter": "ई",
+      "file": "/datasets/marathi/swar/ई.svg"
+    },
+    {
+      "slug": "उ",
+      "letter": "उ",
+      "file": "/datasets/marathi/swar/उ.svg"
+    },
+    {
+      "slug": "ऊ",
+      "letter": "ऊ",
+      "file": "/datasets/marathi/swar/ऊ.svg"
+    },
+    {
+      "slug": "ऋ",
+      "letter": "ऋ",
+      "file": "/datasets/marathi/swar/ऋ.svg"
+    },
+    {
+      "slug": "ए",
+      "letter": "ए",
+      "file": "/datasets/marathi/swar/ए.svg"
+    },
+    {
+      "slug": "ऐ",
+      "letter": "ऐ",
+      "file": "/datasets/marathi/swar/ऐ.svg"
+    },
+    {
+      "slug": "ओ",
+      "letter": "ओ",
+      "file": "/datasets/marathi/swar/ओ.svg"
+    },
+    {
+      "slug": "औ",
+      "letter": "औ",
+      "file": "/datasets/marathi/swar/औ.svg"
+    },
+    {
+      "slug": "अं",
+      "letter": "अं",
+      "file": "/datasets/marathi/swar/अं.svg"
+    },
+    {
+      "slug": "अः",
+      "letter": "अः",
+      "file": "/datasets/marathi/swar/अः.svg"
+    }
+  ],
+  "vyanjan": [
+    {
+      "slug": "ka",
+      "letter": "क",
+      "file": "/datasets/marathi/vyanjan/ka.svg"
+    },
+    {
+      "slug": "kha",
+      "letter": "ख",
+      "file": "/datasets/marathi/vyanjan/kha.svg"
+    },
+    {
+      "slug": "ga",
+      "letter": "ग",
+      "file": "/datasets/marathi/vyanjan/ga.svg"
+    },
+    {
+      "slug": "gha",
+      "letter": "घ",
+      "file": "/datasets/marathi/vyanjan/gha.svg"
+    },
+    {
+      "slug": "nga",
+      "letter": "ङ",
+      "file": "/datasets/marathi/vyanjan/nga.svg"
+    },
+    {
+      "slug": "ca",
+      "letter": "च",
+      "file": "/datasets/marathi/vyanjan/ca.svg"
+    },
+    {
+      "slug": "cha",
+      "letter": "छ",
+      "file": "/datasets/marathi/vyanjan/cha.svg"
+    },
+    {
+      "slug": "ja",
+      "letter": "ज",
+      "file": "/datasets/marathi/vyanjan/ja.svg"
+    },
+    {
+      "slug": "jha",
+      "letter": "झ",
+      "file": "/datasets/marathi/vyanjan/jha.svg"
+    },
+    {
+      "slug": "nya",
+      "letter": "ञ",
+      "file": "/datasets/marathi/vyanjan/nya.svg"
+    },
+    {
+      "slug": "tta",
+      "letter": "ट",
+      "file": "/datasets/marathi/vyanjan/tta.svg"
+    },
+    {
+      "slug": "ttha",
+      "letter": "ठ",
+      "file": "/datasets/marathi/vyanjan/ttha.svg"
+    },
+    {
+      "slug": "dda",
+      "letter": "ड",
+      "file": "/datasets/marathi/vyanjan/dda.svg"
+    },
+    {
+      "slug": "ddha",
+      "letter": "ढ",
+      "file": "/datasets/marathi/vyanjan/ddha.svg"
+    },
+    {
+      "slug": "nna",
+      "letter": "ण",
+      "file": "/datasets/marathi/vyanjan/nna.svg"
+    },
+    {
+      "slug": "ta",
+      "letter": "त",
+      "file": "/datasets/marathi/vyanjan/ta.svg"
+    },
+    {
+      "slug": "tha",
+      "letter": "थ",
+      "file": "/datasets/marathi/vyanjan/tha.svg"
+    },
+    {
+      "slug": "da",
+      "letter": "द",
+      "file": "/datasets/marathi/vyanjan/da.svg"
+    },
+    {
+      "slug": "dha",
+      "letter": "ध",
+      "file": "/datasets/marathi/vyanjan/dha.svg"
+    },
+    {
+      "slug": "na",
+      "letter": "न",
+      "file": "/datasets/marathi/vyanjan/na.svg"
+    },
+    {
+      "slug": "pa",
+      "letter": "प",
+      "file": "/datasets/marathi/vyanjan/pa.svg"
+    },
+    {
+      "slug": "pha",
+      "letter": "फ",
+      "file": "/datasets/marathi/vyanjan/pha.svg"
+    },
+    {
+      "slug": "ba",
+      "letter": "ब",
+      "file": "/datasets/marathi/vyanjan/ba.svg"
+    },
+    {
+      "slug": "bha",
+      "letter": "भ",
+      "file": "/datasets/marathi/vyanjan/bha.svg"
+    },
+    {
+      "slug": "ma",
+      "letter": "म",
+      "file": "/datasets/marathi/vyanjan/ma.svg"
+    },
+    {
+      "slug": "ya",
+      "letter": "य",
+      "file": "/datasets/marathi/vyanjan/ya.svg"
+    },
+    {
+      "slug": "ra",
+      "letter": "र",
+      "file": "/datasets/marathi/vyanjan/ra.svg"
+    },
+    {
+      "slug": "la",
+      "letter": "ल",
+      "file": "/datasets/marathi/vyanjan/la.svg"
+    },
+    {
+      "slug": "va",
+      "letter": "व",
+      "file": "/datasets/marathi/vyanjan/va.svg"
+    },
+    {
+      "slug": "sha",
+      "letter": "श",
+      "file": "/datasets/marathi/vyanjan/sha.svg"
+    },
+    {
+      "slug": "ssa",
+      "letter": "ष",
+      "file": "/datasets/marathi/vyanjan/ssa.svg"
+    },
+    {
+      "slug": "sa",
+      "letter": "स",
+      "file": "/datasets/marathi/vyanjan/sa.svg"
+    },
+    {
+      "slug": "ha",
+      "letter": "ह",
+      "file": "/datasets/marathi/vyanjan/ha.svg"
+    },
+    {
+      "slug": "lla",
+      "letter": "ळ",
+      "file": "/datasets/marathi/vyanjan/lla.svg"
+    },
+    {
+      "slug": "ksha",
+      "letter": "क्ष",
+      "file": "/datasets/marathi/vyanjan/ksha.svg"
+    },
+    {
+      "slug": "tra",
+      "letter": "त्र",
+      "file": "/datasets/marathi/vyanjan/tra.svg"
+    },
+    {
+      "slug": "gya",
+      "letter": "ज्ञ",
+      "file": "/datasets/marathi/vyanjan/gya.svg"
+    }
+  ]
+}

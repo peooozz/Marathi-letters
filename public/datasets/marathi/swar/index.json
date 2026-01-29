@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "अ",
+    "letter": "अ",
+    "file": "/datasets/marathi/swar/अ.svg"
+  },
+  {
+    "slug": "आ",
+    "letter": "आ",
+    "file": "/datasets/marathi/swar/आ.svg"
+  },
+  {
+    "slug": "इ",
+    "letter": "इ",
+    "file": "/datasets/marathi/swar/इ.svg"
+  },
+  {
+    "slug": "ई",
+    "letter": "ई",
+    "file": "/datasets/marathi/swar/ई.svg"
+  },
+  {
+    "slug": "उ",
+    "letter": "उ",
+    "file": "/datasets/marathi/swar/उ.svg"
+  },
+  {
+    "slug": "ऊ",
+    "letter": "ऊ",
+    "file": "/datasets/marathi/swar/ऊ.svg"
+  },
+  {
+    "slug": "ऋ",
+    "letter": "ऋ",
+    "file": "/datasets/marathi/swar/ऋ.svg"
+  },
+  {
+    "slug": "ए",
+    "letter": "ए",
+    "file": "/datasets/marathi/swar/ए.svg"
+  },
+  {
+    "slug": "ऐ",
+    "letter": "ऐ",
+    "file": "/datasets/marathi/swar/ऐ.svg"
+  },
+  {
+    "slug": "ओ",
+    "letter": "ओ",
+    "file": "/datasets/marathi/swar/ओ.svg"
+  },
+  {
+    "slug": "औ",
+    "letter": "औ",
+    "file": "/datasets/marathi/swar/औ.svg"
+  },
+  {
+    "slug": "अं",
+    "letter": "अं",
+    "file": "/datasets/marathi/swar/अं.svg"
+  },
+  {
+    "slug": "अः",
+    "letter": "अः",
+    "file": "/datasets/marathi/swar/अः.svg"
+  }
+]
